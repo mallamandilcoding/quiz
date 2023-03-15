@@ -79,21 +79,19 @@ const getCategories = ()=> {
      `
 
      <h3>SELECT THE QUIZ CATEGORY YOU ARE INTERESTED ON?? </h3>
-
      `);
 
     keys.forEach((key) => {
       quizContainer.insertAdjacentHTML("beforeend",
       `
-      <div class = "checkbox">
-        <input type="checkbox" id="${key}" name="${key}" value="${key}">
-        <label for="${key}"> ${key}</label>
-      </div>
+        <div class = "checkbox">
+          <input type="checkbox" id="${key}" name="${key}" value="${key}">
+          <label for="${key}"> ${key}</label>
+        </div>
       `);
     });
     quizContainer.insertAdjacentHTML("beforeend",
     `
-
     <button class="btn" id="select">SELECT</button>
     `);
 
