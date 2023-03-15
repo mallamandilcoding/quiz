@@ -1,6 +1,6 @@
 # 🎭🎭 QUIZ
 
-Simple quiz using api
+Simple quiz using https://the-trivia-api.com/ api
 
 
 # DEMO VIDEO
