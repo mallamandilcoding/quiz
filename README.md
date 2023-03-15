@@ -9,7 +9,7 @@ Simple quiz using https://the-trivia-api.com/ api
 
 
 
-https://user-images.githubusercontent.com/122031769/225301567-4840a16c-cc7d-4d6c-91b2-70adeadd6dd7.mp4
+https://user-images.githubusercontent.com/122031769/225377942-3bbfd639-13fb-41b8-925f-c2e369f1ae72.mp4
 
 
 
