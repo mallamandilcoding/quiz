@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/122031769/225377942-3bbfd639-13fb-41b8
 
 
 <br>
-App home:https://mallamandilcoding.github.io/clonewebsite/
+App home:https://mallamandilcoding.github.io/quiz/
 
 
 
