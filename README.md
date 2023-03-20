@@ -1,31 +1,23 @@
-#📃📃 TODO LIST
+# 🎭🎭 QUIZ
 
-A Todo list made from html,css,js and local storage
+Simple quiz using https://the-trivia-api.com/ api
 
 
 # DEMO VIDEO
-
-<br>
-
+Simple quiz using https://the-trivia-api.com/ api
 
 
 
-https://user-images.githubusercontent.com/122031769/226358702-9a657e08-6b52-492b-aa2a-1018e4064bca.mp4
-
-<br>
-
-
-# PICTURES
-
-<br>
-
-
-![todo](https://user-images.githubusercontent.com/122031769/226358882-29cd68cc-c21d-433c-91b7-c5178e9a83a2.png)
+https://user-images.githubusercontent.com/122031769/225377942-3bbfd639-13fb-41b8-925f-c2e369f1ae72.mp4
 
 
 
 <br>
-App home:https://mallamandilcoding.github.io/todolist/
+
+
+
+<br>
+App home:https://mallamandilcoding.github.io/quiz/
 
 
 
@@ -33,7 +25,6 @@ App home:https://mallamandilcoding.github.io/todolist/
 - [HTML5]
 - [CSS3]
 - [JAVASCRIPT]
-- [LOCAL STORAGE]
 
 
 
